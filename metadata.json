@@ -1,0 +1,6 @@
+{
+  "name": "ระบบสรุปเวรงานอุบัติเหตุ-ฉุกเฉินและนิติเวช",
+  "description": "ระบบจัดทำและตรวจสอบรายงานสรุปเวรงานอุบัติเหตุ-ฉุกเฉินและนิติเวช (ER & Forensic Handover) พร้อมระบบตรวจสอบความถูกต้องของสถิติและคัดลอกส่งเวรทันที",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
